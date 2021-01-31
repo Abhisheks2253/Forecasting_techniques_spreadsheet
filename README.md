@@ -2,7 +2,7 @@
 
 ## As an assignment for IE 500: Supply Chain Engineering course, I worked on this assignment that included forecasting demand based on given historical data
 ### Kindly review the attached spreadsheet
-###Forecasting methods used: 
+### Forecasting methods used: 
 1. Last Value Method 
 2. Moving average method
 3. Exponential Smoothing
